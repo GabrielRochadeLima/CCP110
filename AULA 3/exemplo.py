@@ -1,0 +1,2 @@
+nome = "fuladno"
+print(nome)
