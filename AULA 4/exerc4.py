@@ -1,10 +1,10 @@
 salario = float(input("Digite seu salario: "))
 
 if(salario > 1250):
-    salario_novo= salario*1.1
-    print(f"Novo salario :{salario_novo :.2f}")
+    aumento= (0.15 * 1250 + 0.10 * (salario - 1250))    
 else:
-    (salario <= 1250)
-    salario_novo= salario*1.15
-    print(f"Novo salario :{salario_novo :.2f}")
+    aumento = (salario*0.15) 
+    
+salario_novo = salario + aumento
+print(f"Novo salario :{salario_novo :.2f} - aumento {aumento}")
         
