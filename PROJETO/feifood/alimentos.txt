@@ -1,0 +1,18 @@
+X-Salada;18.90
+X-Bacon;21.50
+X-Frango;19.00
+Batata Frita;12.00
+Batata com Cheddar e Bacon;16.50
+Coxinha de Frango;6.00
+Pastel de Carne;7.00
+Pizza de Calabresa (fatias);9.00
+Pizza de Frango com Catupiry (fatias);9.50
+Hot Dog Simples;11.00
+Hot Dog Duplo;14.00
+Suco de Laranja;8.00
+Refrigerante Lata;7.00
+Água Mineral;4.00
+Milkshake de Chocolate;12.00
+Açaí 300ml;13.50
+Pudim de Leite;9.00
+Brownie com Sorvete;15.00

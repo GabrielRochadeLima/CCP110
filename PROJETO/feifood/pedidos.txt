@@ -1,0 +1,26 @@
+teste;X-Salada;18,90;
+teste;Suco de Laranja;8;
+joao;Batata Frita;12.00;2
+joao;Coxinha de Frango;6.00;
+joao;Pastel de Carne;7.00;
+joao;Hot Dog Simples;11.00;
+joao;Milkshake de Chocolate;12.00;
+gabrielrochadelima@hotmail.com;1;X-Salada,X-Bacon,X-Frango,Batata Frita;71.40;5
+gabrielrochadelima@hotmail.com;2;Hot Dog Simples,Hot Dog Duplo,Suco de Laranja,Refrigerante Lata,Água Mineral,Milkshake de Chocolate;56.00;4.0
+azxlas;3;X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Salada,X-Frango;567.10;5.0
+matheus@gmail.com;4;Pastel de Carne;7.00;
+gabrielrochadelima@hotmail.com;3;X-Salada x1,X-Frango x1,Batata com Cheddar e Bacon x1;54.40;3.0
+jose@teste.com;1;Batata Frita x1;12.00;4.0
+joaosilva@gmail.com;1;X-Salada x1,X-Bacon x1,Batata com Cheddar e Bacon x1;56.90;4.0
+gabriel@gmail.com;1;Água Mineral x2,Batata com Cheddar e Bacon x1,Batata Frita x1,Pastel de Carne x1;43.50;
+pedrogames@games.com;1;X-Frango x50,Batata Frita x99,Pudim de Leite x17,Açaí 300ml x18,Água Mineral x87;2882.00;3.0
+pedrogames@games.com;2;Brownie com Sorvete x23838383838383383383838383838,Batata com Cheddar e Bacon x1;357575757575750739614083579904.00;0.0
+gabrielrochadelima@hotmail.com;4;X-Salada x1,X-Bacon x1,X-Frango x1,Batata Frita x1,Batata com Cheddar e Bacon x1;87.90;
+gabrielrochade@gmail.com;1;X-Salada x1,X-Bacon x1,X-Frango x1,Batata Frita x1;71.40;2.0
+gabrielrochadelima@hotmail.com;5;X-Salada x1,X-Bacon x1,X-Frango x1,Batata Frita x1,Batata com Cheddar e Bacon x1;87.90;
+teste@gmail.com;1;X-Salada x1,Batata com Cheddar e Bacon x1,Coxinha de Frango x1,Pastel de Carne x1,Pizza de Calabresa (fatias) x1,Pizza de Frango com Catupiry (fatias) x1,Hot Dog Simples x1;77.90;
+teste@gmail.com;2;X-Salada x1;18.90;
+lucasrocha@gmail.com;1;X-Salada x1,X-Bacon x1,X-Frango x1,Batata Frita x1,Batata com Cheddar e Bacon x1;87.90;4.0
+lucasrocha@gmail.com;2;X-Salada x1,Hot Dog Simples x1,Hot Dog Duplo x1,Suco de Laranja x1;51.90;5.0
+123;1;X-Salada x1,Batata com Cheddar e Bacon x1,Coxinha de Frango x1,Pastel de Carne x1;48.40;5.0
+123;2;X-Salada x1,X-Salada x1,X-Salada x1,X-Salada x1,X-Salada x1;94.50;

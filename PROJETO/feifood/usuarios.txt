@@ -1,0 +1,25 @@
+teste;teste@gmail.com;123
+gabriel;gabri;1234
+gabriel;gab;123
+gabriel;gabriel;123
+Gabriel;gabiel;123
+teste2;teste;123
+Joao;joao;123
+Gabriel Rocha de Lima;gabrielrochadelima@hotmail.com;1234
+pelé;pelé@gmail.com;1234
+4235464;azxlas;$$$$$$
+matheus;matheus@gmail.com;12345
+Jose;jose@teste.com;12345
+João;joaosilva@gmail.com;1234
+Gabriel;gabrielrochadelima@gmail.com;1234
+gabriel;gabriel@gmail.com;1234
+pedrogames;pedrogames@games.com;games
+Gabriel;gabrielrochade@gmail.com;1234
+Lucas;lucas@gmail.com;123
+Lucas Rocha;lucasrocha@gmail.com;12345
+2343233;54654645@435435.com;34234
+;;
+3213213;232132@213213.com;213123
+1;1;1
+GABRIEL;gabrielrochadelima;1234
+123;123;123
